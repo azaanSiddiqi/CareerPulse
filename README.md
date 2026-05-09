@@ -99,19 +99,6 @@ careerpulse/
 └── package.json
 ```
 
-## Build plan
-
-A realistic four-week plan lives in [`docs/BUILD_PLAN.md`](docs/BUILD_PLAN.md). TL;DR:
-
-- **Week 1** — Auth, schema, scaffolding. *Goal: log in and persist data.*
-- **Week 2** — Jobs CRUD, dashboard, job detail page. *Goal: working tracker without AI.*
-- **Week 3** — AI integration (resume tailoring, interview Qs, cover letters). *Goal: wow features.*
-- **Week 4** — Reminders, polish, deploy. *Goal: production feel.*
-
-## Resume bullet
-
-> Engineered a full-stack AI job-application platform with Next.js 14, TypeScript, and PostgreSQL (Supabase) supporting OAuth, row-level security, and a provider-agnostic LLM layer (Claude / OpenAI) for resume tailoring, interview-question generation, and match scoring. Added Vercel Cron + Resend for transactional reminder emails and shipped to production with full type-safe validation (Zod) and shadcn/ui.
-
 ## License
 
 MIT
